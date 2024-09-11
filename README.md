@@ -1,3 +1,4 @@
-The Play Store apps data has enormous potential to drive app-making businesses to success. Actionable insights can be drawn for developers to work on and capture the Android market.
-Each app (row) has values for catergory, rating, size, and more. Another dataset contains customer reviews of the android apps.
-Explore and analyze the data to discover key factors responsible for app engagement and success.
+*Introduction*
+Google Play, also known as the Google Play Store, is an app store run by Google. It is the official platform for downloading apps on Android devices and ChromeOS. Besides apps, Google Play also offers digital content like music, books, movies, and TV shows, which can be accessed on web browsers and Android or iOS devices.
+
+In this Exploratory Data Analysis (EDA), we will analyze data from the Google Play Store to understand various aspects like app types, number of installs, ratings, and more. By examining and manipulating the data, we aim to answer key questions and uncover insights about the app market.
