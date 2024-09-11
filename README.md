@@ -50,15 +50,23 @@ Life Made WI-Fi Touchscreen Photo Frame,Barisal University App-BU Face,EF Academ
  ![image](https://github.com/user-attachments/assets/fcd21253-42d6-4804-8ff3-1026e30992ac)
 
  **Conclusion**
+ 
  Analyzing the data reveals:
 
 1.Google PlayStore features two main types of apps: Free and Paid.
+
 2.Key categories include Family, Tools, and Games.
+
 3.Apps receive ratings and reviews, influencing their popularity.
+
 4.The most common categories are Business, Game, Family, and Tools, with free apps making up 98% of the total.
+
 5.Communication, Games, and Tools are the most installed categories.
+
 6.Apps with ratings between 4.0-4.7 tend to have more reviews and installs, though price doesn't directly impact ratings.
+
 7.Install counts and reviews are strongly correlated and significantly influence app popularity.
+
 Various factors, including app price, ratings, reviews, and install numbers, affect app usage and popularity.
 
 
