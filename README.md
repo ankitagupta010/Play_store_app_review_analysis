@@ -17,4 +17,5 @@ Firstly taking out all the categories of various apps on PlayStore and finding t
 Using groupby function to convert "Category" into a dataframe.
 Using matplotlib to plot pie chart out of the given information by using specific radius of 4, showing percentage distribution.
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/c5b0bc59-e58a-44e1-9b22-b955565b29bd)
+
